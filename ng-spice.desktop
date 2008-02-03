@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ng-spice
+Comment=Circuit simulator
+Exec=ngspice
+Icon=ngspice
+Type=Application
+Terminal=1
+Categories=Education;Science;Electronics
